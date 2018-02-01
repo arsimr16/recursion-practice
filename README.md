@@ -1,6 +1,8 @@
 # Recursion Practice
 
-A version of [recursion-prompts](https://github.com/mybrainishuge/recursion-prompts)
+A version of [recursion-prompts](https://github.com/mybrainishuge/recursion-prompts) adapted by Hack Reactor.
+I did this work in a private Hack Reactor repo which I cannot make public, so I made this repo to show my work.  I didn't bother copying all the tests, but I passed all the tests for every function that I implemented.
+
 
 ### **What is this?**
 This is a repository of toy problems to be solved using recursion and JavaScript. While the concept of recursion may not be difficult to grasp, the only way to improve at thinking recursively is by practice. If you need practice, then maybe this repo is for you.
